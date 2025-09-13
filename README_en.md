@@ -5,6 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE) 
 [![Chinese](https://img.shields.io/badge/Chinese-Click_to_View-orange)](README.md)
 [![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
+[![Japanese](https://img.shields.io/badge/Japanese-Click_to_View-blue)](README.ja.md)
 
 </div>
 
